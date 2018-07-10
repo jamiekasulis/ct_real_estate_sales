@@ -6,11 +6,6 @@ This repository includes my own copy of the raw file from the above link as well
 
 FILES
 - data/Real_Estate_Sales_2001-2016.csv    The raw data downloaded from the above link on 7/6/18
-- data/clean_data_xxxx_listings.csv       Year-by-year clean data. There are 16 of these
+- data/clean_data_xxxx_listings.csv       Year-by-year clean data. There are 16 of these (2001-2016)
 - Data Cleaning Final.ipynb               The notebook I use to produce the clean year-by-year data.
 - Data Exploration.ipynb                  My initial analysis notebook.
-- data/clean_data.csv 					  A csv file containing all of the cleaned data.
-
-Note: Data Cleaning Final.ipynb takes quite some time to reproduce even a year of clean data (even just 2001 has around 60,000 rows of
-  data). If you wish to rerun this notebook on your own device, you should plan to run it overnight or while you go off to do something
-  else.
